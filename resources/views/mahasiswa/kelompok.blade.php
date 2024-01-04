@@ -25,14 +25,14 @@
                     <th class="col-md-3">WhatsApp</th>
                 </tr>
             </thead>
-            <tbody>
+           <tbody>
                 <tr>
                     <td>1</td>
                     <td>IST2104021</td>
                     <td>Fathor Rozi</td>
                     <td>Teknologi Informasi</td>
                     <td>Prenduan, Pragaan, Sumenep</td>
-                    <td><a href="">https://wa.me/6287803224618</a></td>
+                    <td><a href="https://wa.me/6287803224618" style="text-decoration: none">0878-0322-4618</a></td>
                 </tr>
             </tbody>
             <thead>
@@ -42,7 +42,7 @@
                     <td>Asril Hidayat</td>
                     <td>Teknologi Informasi</td>
                     <td>Kapedi, Bluto, Sumenep</td>
-                    <td><a href="">https://wa.me/6281249356051</a></td>
+                    <td><a href="https://wa.me/6281249356051" style="text-decoration: none">0812-4935-6051</a></td>
                 </tr>
             </thead>
             <tbody>
@@ -52,7 +52,7 @@
                     <td>Moh. Syauqi Asyif</td>
                     <td>Teknologi Informasi</td>
                     <td>Gadu Barat, Ganding, Sumenep</td>
-                    <td><a href="">https://wa.me/6281908612547</a></td>
+                    <td><a href="https://wa.me/6281908612547" style="text-decoration: none">0819-0861-2547</a></td>
                 </tr>
             </tbody>
         </table>
